@@ -1,7 +1,6 @@
 ---
 layout:       post
 title:        "海乐居民宿一览"
-author:       "海乐居"
 tags:
     - 海乐居
     - 旅游

@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "测试喔"
+title:        "海乐居民宿一览"
 author:       "海乐居"
 tags:
     - 海乐居
@@ -14,7 +14,7 @@ tags:
 
 <br>
 
-> 别墅一览：
+> 民宿一览：
 
 6901 [KTV烧烤麻将7房11床临海别墅](https://www.meipian.cn/408o8dzl?share_depth=6&s_uid=70562482&share_to=group_singlemessage&first_share_to=singlemessage&first_share_uid=48247741)
 

@@ -7,7 +7,5 @@ header-img: img/sea.jpg
 
 测试1
 -----------
-
-(/img/404desert.jpg)
-
+<br>
 ![java-javascript](/img/404desert.jpg)

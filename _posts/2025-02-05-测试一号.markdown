@@ -1,7 +1,11 @@
+---
 layout:       post
-title:        "随机性测试1"
-
+title:        "测试1"
+subtitle:     "测试1.0"
+header-img: img/sea.jpg
 ---
 
-随机性测试1
+测试1
 -----------
+
+img/sea.jpg
